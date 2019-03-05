@@ -30,4 +30,9 @@ No formato:
 
 ### Tecnologias usadas
 
-Essa API foi desenvolvida para praticar meus conhecimento de NodeJS e testar o framework de teste **Jest**.
+Essa API foi desenvolvida para praticar meus conhecimento de NodeJS e testar o framework de teste **Jest**. Uma funcionalidade interessante é a facilidade de se ver a cobertura de código do seu projeto com este framework, para isto basta executar o comando na raiz:
+```
+yarn test
+```
+
+Que será gerado um arquivo .html na pasta **\_\_testes__/cobertura**.
