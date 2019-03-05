@@ -2,9 +2,24 @@
 
 Esse é um jogo muito conhecido devido a série _The big bang theory_ aonde o personagem _Sheldon_ é viciado no jogo. Como grande fã da série, resolvi criar uma API que dado a jogada de ambos os jogadores respondesse quem ganha.
 
+## Regras do jogo
+
+As regras de Pedra-papel-tesoura-lagarto-Spock são:
+
++ Tesoura corta papel
++ Papel cobre pedra
++ Pedra esmaga lagarto
++ Lagarto envenena Spock
++ Spock esmaga (ou derrete) tesoura
++ Tesoura decapita lagarto
++ Lagarto come papel
++ Papel refuta Spock
++ Spock vaporiza pedra
++ Pedra quebra tesoura
+
 ## Como funciona
 
-Para testar esa API basta executar a aplicação, executando na raiz o comando: 
+Para testar essa API basta executar a aplicação, executando na raiz o comando: 
 ```
 yarn start
 ```
