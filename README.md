@@ -1,4 +1,5 @@
 # Pedra Papel Tesoura Lagarto Spock
+![](/public/images/RPSLS.png)
 
 Esse é um jogo muito conhecido devido a série _The big bang theory_ aonde o personagem _Sheldon_ é viciado no jogo. Como grande fã da série, resolvi criar uma API que dado a jogada de ambos os jogadores respondesse quem ganha.
 
